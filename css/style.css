@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.square {
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+}
